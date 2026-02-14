@@ -1,4 +1,7 @@
+README.md
+
 # My OSS Portfolio - Gasto Titus Fungo
+
 
 This portfolio shows my contributions to open-source projects for IT8303 Assignment.
 
@@ -22,3 +25,14 @@ This portfolio shows my contributions to open-source projects for IT8303 Assignm
 - Learned Git workflow, communication with maintainers, and OSS culture.
 
 Portfolio for academic purposes.
+
+
+## PR #1: Good First Issue
+Link: https://github.com/firstcontributions/first-contributions/pull/[NUMBER HALISI]
+
+## PR #2: Documentation
+Link: https://github.com/[project2]/pull/[NUMBER]
+
+## PR #3: Code/Test
+Link: https://github.com/firstcontributions/first-contributions/pull/[NUMBER YA TATU]
+
